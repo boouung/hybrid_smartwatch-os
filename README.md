@@ -1,4 +1,4 @@
-# hybridsw-os (magnet)
+# hybrid_smartwatch-os (magnet)
 
 Placeholder repository. Will hold the code for powering hybridsw (compass).
 
